@@ -1,3 +1,7 @@
+### App Walkthough GIF
+
+<img src="https://github.com/HelenHuCS/SimpleTweet/blob/master/app/walkthrough.gif" width=250><br>
+
 # RestClientTemplate
 
 ## Overview
